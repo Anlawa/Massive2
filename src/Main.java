@@ -3,7 +3,7 @@ public class Main {
 
 
 //task1
-
+int arr;
 
 
 
